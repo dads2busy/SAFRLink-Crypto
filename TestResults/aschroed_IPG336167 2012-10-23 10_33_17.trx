@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="10a3c7eb-99d9-4d4a-aa3a-cf19a250e693" name="aschroed@IPG336167 2012-10-23 10:33:17" runUser="OIA\aschroed" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="55eec13f-28db-4ad1-8efb-8bf6a9de2266">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="aschroed_IPG336167 2012-10-23 10_33_17">
+      <DeploymentItem filename="C:\Users\aschroed\Documents\Visual Studio 2010\Projects\VTIntegrate.Crypto\trunk\VTIntegrate.Crypto\VTIntegrate.CypherStoredProcedures\bin\Debug\VTIntegrate.CypherStoredProcedures.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-23T10:33:17.1366729-04:00" queuing="2012-10-23T10:33:18.2067799-04:00" start="2012-10-23T10:33:18.3257918-04:00" finish="2012-10-23T10:34:57.2916874-04:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="IPG336167" outcome="Error" timestamp="2012-10-23T10:34:57.2906873-04:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="VT_Cypher_Person_NameTest2" storage="c:\users\aschroed\documents\visual studio 2010\projects\vtintegrate.crypto\trunk\vtintegrate.crypto\vtintegrate.cypherstoredprocedurestest\bin\debug\vtintegrate.cypherstoredprocedurestest.dll" id="3127b37a-ce2d-534d-a027-e39b381a081c">
+      <Execution id="7a308c3d-b77b-4006-80d5-cab8109312f6" />
+      <TestMethod codeBase="C:/Users/aschroed/Documents/Visual Studio 2010/Projects/VTIntegrate.Crypto/trunk/VTIntegrate.Crypto/VTIntegrate.CypherStoredProceduresTest/bin/Debug/VTIntegrate.CypherStoredProceduresTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VTIntegrate.CypherStoredProceduresTest.UserDefinedFunctionsTest, VTIntegrate.CypherStoredProceduresTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VT_Cypher_Person_NameTest2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3127b37a-ce2d-534d-a027-e39b381a081c" executionId="7a308c3d-b77b-4006-80d5-cab8109312f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7a308c3d-b77b-4006-80d5-cab8109312f6" testId="3127b37a-ce2d-534d-a027-e39b381a081c" testName="VT_Cypher_Person_NameTest2" computerName="IPG336167" duration="00:01:38.8308821" startTime="2012-10-23T10:33:18.4608053-04:00" endTime="2012-10-23T10:34:57.2916874-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7a308c3d-b77b-4006-80d5-cab8109312f6">
+    </UnitTestResult>
+  </Results>
+</TestRun>

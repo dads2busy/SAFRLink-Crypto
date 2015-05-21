@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b6afdcd0-d361-422f-a861-47179f76ae63" name="aschroed@IPG336167 2012-10-23 10:37:38" runUser="OIA\aschroed" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="55eec13f-28db-4ad1-8efb-8bf6a9de2266">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="aschroed_IPG336167 2012-10-23 10_37_38">
+      <DeploymentItem filename="C:\Users\aschroed\Documents\Visual Studio 2010\Projects\VTIntegrate.Crypto\trunk\VTIntegrate.Crypto\VTIntegrate.CypherStoredProcedures\bin\Debug\VTIntegrate.CypherStoredProcedures.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-23T10:37:38.7228289-04:00" queuing="2012-10-23T10:37:38.9788545-04:00" start="2012-10-23T10:37:39.0088575-04:00" finish="2012-10-23T10:37:39.3078874-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="VT_Cypher_Person_NameTest2" storage="c:\users\aschroed\documents\visual studio 2010\projects\vtintegrate.crypto\trunk\vtintegrate.crypto\vtintegrate.cypherstoredprocedurestest\bin\debug\vtintegrate.cypherstoredprocedurestest.dll" id="3127b37a-ce2d-534d-a027-e39b381a081c">
+      <Execution id="f21012b1-8212-45f9-bcd3-e46259e45f10" />
+      <TestMethod codeBase="C:/Users/aschroed/Documents/Visual Studio 2010/Projects/VTIntegrate.Crypto/trunk/VTIntegrate.Crypto/VTIntegrate.CypherStoredProceduresTest/bin/Debug/VTIntegrate.CypherStoredProceduresTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VTIntegrate.CypherStoredProceduresTest.UserDefinedFunctionsTest, VTIntegrate.CypherStoredProceduresTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VT_Cypher_Person_NameTest2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3127b37a-ce2d-534d-a027-e39b381a081c" executionId="f21012b1-8212-45f9-bcd3-e46259e45f10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f21012b1-8212-45f9-bcd3-e46259e45f10" testId="3127b37a-ce2d-534d-a027-e39b381a081c" testName="VT_Cypher_Person_NameTest2" computerName="IPG336167" duration="00:00:00.0144842" startTime="2012-10-23T10:37:39.0228589-04:00" endTime="2012-10-23T10:37:39.2908857-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f21012b1-8212-45f9-bcd3-e46259e45f10">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,5 @@
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\VTIntegrate.Crypto\trunk\VTIntegrate.Crypto\VTIntegrate.CypherStoredProcedures\bin\Debug\VTIntegrate.CypherStoredProcedures.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\VTIntegrate.Crypto\trunk\VTIntegrate.Crypto\VTIntegrate.CypherStoredProcedures\bin\Debug\VTIntegrate.CypherStoredProcedures.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\VTIntegrate.Crypto\trunk\VTIntegrate.Crypto\VTIntegrate.CypherStoredProcedures\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\VTIntegrate.Crypto\trunk\VTIntegrate.Crypto\VTIntegrate.CypherStoredProcedures\obj\Debug\VTIntegrate.CypherStoredProcedures.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\VTIntegrate.Crypto\trunk\VTIntegrate.Crypto\VTIntegrate.CypherStoredProcedures\obj\Debug\VTIntegrate.CypherStoredProcedures.pdb
